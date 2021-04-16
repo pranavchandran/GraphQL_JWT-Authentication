@@ -1,6 +1,17 @@
 # GraphQL_JWT-Authentication
 All about Authentication using GraphQl
 
+##commands Used  
+
+py -m venv venv
+pip install django  
+django-admin startproject core  
+py manage.py startapp users  
+pip install graphene-django  
+pip install django-graphql-jwt  
+pip install django-graphql-auth  
+
+##i skipped all and install only django-graphql-auth
 
 Pick Specific Data
 
